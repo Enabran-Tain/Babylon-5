@@ -1,6 +1,6 @@
 b5	10-30-09
-plugins/b5/plugininfo.txt	http://www.werepenguin.com/B5/lackey/plugininfo.txt	160553
-plugins/b5/setlist.txt	http://www.werepenguin.com/B5/lackey/setlist.txt	55445
+plugins/b5/plugininfo.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/plugininfo.txt 160553
+plugins/b5/setlist.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/setlist.txt	55445
 plugins/b5/packs/packdefinitions.txt	http://www.werepenguin.com/B5/lackey/packs/packdefinitions.txt	548172
 plugins/b5/bot.jpg	http://babylon5ccg.bravehost.com/download/b5/plugin/bot.jpg	-919
 plugins/b5/sets/setimages/general/spawned.jpg	http://www.werepenguin.com/B5/lackey/high/spawned.jpg	-69041
