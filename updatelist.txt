@@ -1,4 +1,4 @@
-Babylon-5	30.12.2023
+b5	10-30-09
 plugins/Babylon-5/plugininfo.txt  https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/plugininfo.txt 160553
 plugins/Babylon-5/setlist.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/setlist.txt	55445
 plugins/Babylon-5/packs/packdefinitions.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/packs/packdefinitions.txt	548172
