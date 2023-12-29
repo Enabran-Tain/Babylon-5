@@ -1,4 +1,4 @@
-b5	10-30-09
+Babylon-5	30.12.2023
 plugins/Babylon-5/plugininfo.txt  https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/plugininfo.txt 160553
 plugins/Babylon-5/setlist.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/setlist.txt	55445
 plugins/Babylon-5/packs/packdefinitions.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/packs/packdefinitions.txt	548172
@@ -21,6 +21,6 @@ plugins/Babylon-5/packs/01-Pr_sd-Cn.jpg	http://www.werepenguin.com/B5/lackey/pac
 plugins/Babylon-5/packs/04-GW_sd-NA.jpg	http://www.werepenguin.com/B5/lackey/packs/04-GW_sd-NA.jpg	-23805
 plugins/Babylon-5/packs/04-GW_sd-HF.jpg	http://www.werepenguin.com/B5/lackey/packs/04-GW_sd-HF.jpg	-23805
 plugins/Babylon-5/packs/05-Ps_sd-Ps.jpg	http://www.werepenguin.com/B5/lackey/packs/05-Ps_sd-Ps.jpg	-5785
-plugins/Babylon-5/sets/All_Sets.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/All_Sets.txt	61982728
+plugins/Babylon-5/sets/All_Sets.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/sets/All_Sets.txt	61982728
 CardGeneralURLs:
 https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/sets/setimages
