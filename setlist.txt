@@ -14,15 +14,9 @@ Wheel_of_Fire
 Crusade
 
 Fan_sets
-3
+2
 AnlaShok
 The_Vorlons
-CrusadeRedux
-
-Redux
-1
-CrusadeRedux
-
 
 01_Premier
 1
