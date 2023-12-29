@@ -1,7 +1,7 @@
 b5	10-30-09
-plugins/b5/plugininfo.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/plugininfo.txt 160553
-plugins/b5/setlist.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/setlist.txt	55445
-plugins/b5/packs/packdefinitions.txt	http://www.werepenguin.com/B5/lackey/packs/packdefinitions.txt	548172
+plugins/b5/plugininfo.txt  https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/plugininfo.txt 160553
+plugins/b5/setlist.txt	 https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/setlist.txt	55445
+plugins/b5/packs/packdefinitions.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/packs/packdefinitions.txt	548172
 plugins/b5/bot.jpg	http://babylon5ccg.bravehost.com/download/b5/plugin/bot.jpg	-919
 plugins/b5/sets/setimages/general/spawned.jpg	http://www.werepenguin.com/B5/lackey/high/spawned.jpg	-69041
 plugins/b5/sets/setimages/general/cardback.jpg	http://www.werepenguin.com/B5/lackey/high/cardback.jpg	-41401
@@ -22,6 +22,5 @@ plugins/b5/packs/04-GW_sd-NA.jpg	http://www.werepenguin.com/B5/lackey/packs/04-G
 plugins/b5/packs/04-GW_sd-HF.jpg	http://www.werepenguin.com/B5/lackey/packs/04-GW_sd-HF.jpg	-23805
 plugins/b5/packs/05-Ps_sd-Ps.jpg	http://www.werepenguin.com/B5/lackey/packs/05-Ps_sd-Ps.jpg	-5785
 plugins/b5/sets/All_Sets.txt	http://www.werepenguin.com/B5/lackey/All_Sets.txt	61982728
-plugins/b5/sets/CrusadeRedux.txt	http://www.werepenguin.com/B5/lackey/CrusadeRedux.txt	5066349
 CardGeneralURLs:
-http://www.werepenguin.com/B5/lackey/high/
+https://raw.githubusercontent.com/Enabran-Tain/Babylon-5
