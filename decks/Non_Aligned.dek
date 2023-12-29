@@ -1,0 +1,70 @@
+<deck version="0.8">
+	<meta>
+		<game>b5</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="04-280">Safety in Numbers</name><set>Great_War</set></card>
+		<card><name id="07-063">Kullenbrak</name><set>Wheel_of_Fire</set></card>
+		<card><name id="04-171">Lethke Zum Bartrado</name><set>Great_War</set></card>
+		<card><name id="04-038">Brakiri Merchant</name><set>Great_War</set></card>
+		<card><name id="04-038">Brakiri Merchant</name><set>Great_War</set></card>
+		<card><name id="04-038">Brakiri Merchant</name><set>Great_War</set></card>
+		<card><name id="04-138">Harkar</name><set>Great_War</set></card>
+		<card><name id="07-035">Drazi Merchant</name><set>Wheel_of_Fire</set></card>
+		<card><name id="07-035">Drazi Merchant</name><set>Wheel_of_Fire</set></card>
+		<card><name id="07-035">Drazi Merchant</name><set>Wheel_of_Fire</set></card>
+		<card><name id="04-310">She&apos;lah</name><set>Great_War</set></card>
+		<card><name id="P4-404">Gaim Merchant</name><set>Great_War</set></card>
+		<card><name id="04-145">Hyach Matriarch</name><set>Great_War</set></card>
+		<card><name id="04-328">Telepath Recruit</name><set>Great_War</set></card>
+		<card><name id="04-328">Telepath Recruit</name><set>Great_War</set></card>
+		<card><name id="04-328">Telepath Recruit</name><set>Great_War</set></card>
+		<card><name id="04-101">Fashar</name><set>Great_War</set></card>
+		<card><name id="04-368">Vlur/Nhar</name><set>Great_War</set></card>
+		<card><name id="04-172">Lhim/Dram</name><set>Great_War</set></card>
+		<card><name id="04-196">Milashi Voktal</name><set>Great_War</set></card>
+		<card><name id="03-365">Vree Saucers</name><set>Deluxe</set></card>
+		<card><name id="04-039">Brakiri War Fleet</name><set>Great_War</set></card>
+		<card><name id="04-086">Drazi War Fleet</name><set>Great_War</set></card>
+		<card><name id="04-037">Brakiri Cruisers</name><set>Great_War</set></card>
+		<card><name id="04-037">Brakiri Cruisers</name><set>Great_War</set></card>
+		<card><name id="04-037">Brakiri Cruisers</name><set>Great_War</set></card>
+		<card><name id="04-084">Drazi Strike Fleet</name><set>Great_War</set></card>
+		<card><name id="04-084">Drazi Strike Fleet</name><set>Great_War</set></card>
+		<card><name id="04-084">Drazi Strike Fleet</name><set>Great_War</set></card>
+		<card><name id="04-397">Zhabar</name><set>Great_War</set></card>
+		<card><name id="P3-384">Rogue Telepath</name><set>Deluxe</set></card>
+		<card><name id="01-233">Lyta Alexander</name><set>Premier</set></card>
+		<card><name id="04-354">Underground Telepath</name><set>Great_War</set></card>
+		<card><name id="05-081">Jonathan Harris</name><set>Psi_Corps</set></card>
+		<card><name id="05-056">Exercises of The Mind</name><set>Psi_Corps</set></card>
+		<card><name id="05-056">Exercises of The Mind</name><set>Psi_Corps</set></card>
+		<card><name id="05-056">Exercises of The Mind</name><set>Psi_Corps</set></card>
+		<card><name id="05-102">Mind Games</name><set>Psi_Corps</set></card>
+		<card><name id="05-102">Mind Games</name><set>Psi_Corps</set></card>
+		<card><name id="05-102">Mind Games</name><set>Psi_Corps</set></card>
+		<card><name id="05-129">Psi Academy</name><set>Psi_Corps</set></card>
+		<card><name id="01-418">Upgraded Defenses</name><set>Premier</set></card>
+		<card><name id="05-089">Level the Playing Field</name><set>Psi_Corps</set></card>
+		<card><name id="05-089">Level the Playing Field</name><set>Psi_Corps</set></card>
+		<card><name id="05-089">Level the Playing Field</name><set>Psi_Corps</set></card>
+		<card><name id="07-053">Gerontocracy</name><set>Wheel_of_Fire</set></card>
+		<card><name id="06-139">War Crimes Trial</name><set>Severed_Dreams</set></card>
+		<card><name id="06-139">War Crimes Trial</name><set>Severed_Dreams</set></card>
+		<card><name id="06-139">War Crimes Trial</name><set>Severed_Dreams</set></card>
+		<card><name id="04-216">Non-Aligned Agent</name><set>Great_War</set></card>
+		<card><name id="07-062">Kirrin</name><set>Wheel_of_Fire</set></card>
+		<card><name id="07-080">Miziri Tal</name><set>Wheel_of_Fire</set></card>
+		<card><name id="04-321">Suarez Cil&apos;tlakh</name><set>Great_War</set></card>
+		<card><name id="07-151">Wushmeshkeshlep Fo</name><set>Wheel_of_Fire</set></card>
+		<card><name id="07-085">Nug/Ulg</name><set>Wheel_of_Fire</set></card>
+		<card><name id="04-164">Kalika Qwal&apos;mizra</name><set>Great_War</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="07-105">Rule By the Masses</name><set>Wheel_of_Fire</set></card>
+		<card><name id="07-080">Miziri Tal</name><set>Wheel_of_Fire</set></card>
+		<card><name id="08-157">Yabc Ftoba</name><set>Crusade</set></card>
+		<card><name id="04-077">Diplomatic Channels</name><set>Great_War</set></card>
+		<card><name id="04-164">Kalika Qwal&apos;mizra</name><set>Great_War</set></card>
+	</superzone>
+</deck>

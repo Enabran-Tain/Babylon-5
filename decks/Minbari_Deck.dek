@@ -1,0 +1,72 @@
+<deck version="0.8">
+	<meta>
+		<game>b5</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="03-071">Deep Space Fleet (Minbari)</name><set>Deluxe</set></card>
+		<card><name id="03-071">Deep Space Fleet (Minbari)</name><set>Deluxe</set></card>
+		<card><name id="03-071">Deep Space Fleet (Minbari)</name><set>Deluxe</set></card>
+		<card><name id="03-276">Rathenn</name><set>Deluxe</set></card>
+		<card><name id="03-354">United Front</name><set>Deluxe</set></card>
+		<card><name id="03-346">Third Battle Fleet (Minbari)</name><set>Deluxe</set></card>
+		<card><name id="03-289">Saber Rattling</name><set>Deluxe</set></card>
+		<card><name id="03-370">Warleader&apos;s Fleet</name><set>Deluxe</set></card>
+		<card><name id="03-095">Durlan</name><set>Deluxe</set></card>
+		<card><name id="04-070">Dedicated Assistant</name><set>Great_War</set></card>
+		<card><name id="01-400">The Great Machine</name><set>Premier</set></card>
+		<card><name id="03-008">Approval of the Grey</name><set>Deluxe</set></card>
+		<card><name id="03-008">Approval of the Grey</name><set>Deluxe</set></card>
+		<card><name id="03-008">Approval of the Grey</name><set>Deluxe</set></card>
+		<card><name id="01-006">Affirm Alliance</name><set>Premier</set></card>
+		<card><name id="01-006">Affirm Alliance</name><set>Premier</set></card>
+		<card><name id="01-006">Affirm Alliance</name><set>Premier</set></card>
+		<card><name id="04-312">Show the Colors</name><set>Great_War</set></card>
+		<card><name id="04-312">Show the Colors</name><set>Great_War</set></card>
+		<card><name id="04-312">Show the Colors</name><set>Great_War</set></card>
+		<card><name id="05-083">Katz</name><set>Psi_Corps</set></card>
+		<card><name id="03-340">Test Their Mettle</name><set>Deluxe</set></card>
+		<card><name id="02-163">Taking Credit</name><set>Shadows</set></card>
+		<card><name id="02-163">Taking Credit</name><set>Shadows</set></card>
+		<card><name id="02-163">Taking Credit</name><set>Shadows</set></card>
+		<card><name id="03-271">Rally the People</name><set>Deluxe</set></card>
+		<card><name id="01-120">Expeditionary Fleet (Minbari)</name><set>Premier</set></card>
+		<card><name id="03-006">Affirmation of Power</name><set>Deluxe</set></card>
+		<card><name id="02-059">Grey Council Servitor</name><set>Shadows</set></card>
+		<card><name id="04-215">No Mercy</name><set>Great_War</set></card>
+		<card><name id="04-215">No Mercy</name><set>Great_War</set></card>
+		<card><name id="07-009">Blow the Jump Gate</name><set>Wheel_of_Fire</set></card>
+		<card><name id="07-009">Blow the Jump Gate</name><set>Wheel_of_Fire</set></card>
+		<card><name id="03-044">Commerce Raiding</name><set>Deluxe</set></card>
+		<card><name id="05-089">Level the Playing Field</name><set>Psi_Corps</set></card>
+		<card><name id="05-089">Level the Playing Field</name><set>Psi_Corps</set></card>
+		<card><name id="05-089">Level the Playing Field</name><set>Psi_Corps</set></card>
+		<card><name id="01-102">Draal</name><set>Premier</set></card>
+		<card><name id="01-169">Homeworld Fleet (Minbari)</name><set>Premier</set></card>
+		<card><name id="03-312">Shakat</name><set>Deluxe</set></card>
+		<card><name id="03-137">Gunboat Diplomacy</name><set>Deluxe</set></card>
+		<card><name id="01-254">Minbari Telepath</name><set>Premier</set></card>
+		<card><name id="03-335">Support of the Mighty</name><set>Deluxe</set></card>
+		<card><name id="03-335">Support of the Mighty</name><set>Deluxe</set></card>
+		<card><name id="03-335">Support of the Mighty</name><set>Deluxe</set></card>
+		<card><name id="06-025">Cult of Personality</name><set>Severed_Dreams</set></card>
+		<card><name id="03-351">Triluminary</name><set>Deluxe</set></card>
+		<card><name id="01-162">Hedronn</name><set>Premier</set></card>
+		<card><name id="03-110">First Battle Fleet (Minbari)</name><set>Deluxe</set></card>
+		<card><name id="01-201">Kalain</name><set>Premier</set></card>
+		<card><name id="02-109">PPG Rifle</name><set>Shadows</set></card>
+		<card><name id="03-369">Warleader Shakiri</name><set>Deluxe</set></card>
+		<card><name id="01-249">Minbar</name><set>Premier</set></card>
+		<card><name id="03-297">Second Battle Fleet (Minbari)</name><set>Deluxe</set></card>
+		<card><name id="02-010">Annex Neutral World</name><set>Shadows</set></card>
+		<card><name id="03-313">Shal Mayan</name><set>Deluxe</set></card>
+		<card><name id="01-180">Immortality Serum</name><set>Premier</set></card>
+		<card><name id="03-027">Carpe Diem</name><set>Deluxe</set></card>
+		<card><name id="03-080">Dhaliri</name><set>Deluxe</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="01-085">Delenn [Pr]</name><set>Premier</set></card>
+		<card><name id="01-217">Lennier [Pr]</name><set>Premier</set></card>
+		<card><name id="04-269">Rapid Growth</name><set>Great_War</set></card>
+		<card><name id="02-021">Build Infrastructure</name><set>Shadows</set></card>
+	</superzone>
+</deck>

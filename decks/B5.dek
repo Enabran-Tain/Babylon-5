@@ -1,0 +1,54 @@
+<deck version="0.8">
+	<meta>
+		<game>b5</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="02-109">PPG Rifle</name><set>Shadows</set></card>
+		<card><name id="02-109">PPG Rifle</name><set>Shadows</set></card>
+		<card><name id="02-109">PPG Rifle</name><set>Shadows</set></card>
+		<card><name id="01-009">Alliance of Races</name><set>Premier</set></card>
+		<card><name id="01-009">Alliance of Races</name><set>Premier</set></card>
+		<card><name id="04-010">Agamemnon</name><set>Great_War</set></card>
+		<card><name id="03-247">Picket Fleet (Human)</name><set>Deluxe</set></card>
+		<card><name id="03-114">Fleet of the Line</name><set>Deluxe</set></card>
+		<card><name id="P5-198">Elder Statesman</name><set>Psi_Corps</set></card>
+		<card><name id="06-082">Nay-Sayer</name><set>Severed_Dreams</set></card>
+		<card><name id="06-082">Nay-Sayer</name><set>Severed_Dreams</set></card>
+		<card><name id="06-082">Nay-Sayer</name><set>Severed_Dreams</set></card>
+		<card><name id="03-334">Support Babylon 5</name><set>Deluxe</set></card>
+		<card><name id="03-334">Support Babylon 5</name><set>Deluxe</set></card>
+		<card><name id="03-334">Support Babylon 5</name><set>Deluxe</set></card>
+		<card><name id="04-269">Rapid Growth</name><set>Great_War</set></card>
+		<card><name id="04-269">Rapid Growth</name><set>Great_War</set></card>
+		<card><name id="04-269">Rapid Growth</name><set>Great_War</set></card>
+		<card><name id="03-118">For the Common Good</name><set>Deluxe</set></card>
+		<card><name id="03-118">For the Common Good</name><set>Deluxe</set></card>
+		<card><name id="03-118">For the Common Good</name><set>Deluxe</set></card>
+		<card><name id="07-037">Elizabeth Lochley (cost 10)</name><set>Wheel_of_Fire</set></card>
+		<card><name id="07-037">Elizabeth Lochley (cost 10)</name><set>Wheel_of_Fire</set></card>
+		<card><name id="07-037">Elizabeth Lochley (cost 10)</name><set>Wheel_of_Fire</set></card>
+		<card><name id="07-021">Corporate Connections</name><set>Wheel_of_Fire</set></card>
+		<card><name id="07-021">Corporate Connections</name><set>Wheel_of_Fire</set></card>
+		<card><name id="07-021">Corporate Connections</name><set>Wheel_of_Fire</set></card>
+		<card><name id="03-213">Moral Quandary</name><set>Deluxe</set></card>
+		<card><name id="03-213">Moral Quandary</name><set>Deluxe</set></card>
+		<card><name id="03-213">Moral Quandary</name><set>Deluxe</set></card>
+		<card><name id="03-063">Crusade</name><set>Deluxe</set></card>
+		<card><name id="03-063">Crusade</name><set>Deluxe</set></card>
+		<card><name id="03-063">Crusade</name><set>Deluxe</set></card>
+		<card><name id="04-021">Babylon 5 Fighters</name><set>Great_War</set></card>
+		<card><name id="04-021">Babylon 5 Fighters</name><set>Great_War</set></card>
+		<card><name id="04-021">Babylon 5 Fighters</name><set>Great_War</set></card>
+		<card><name id="04-182">Lt. David Corwin</name><set>Great_War</set></card>
+		<card><name id="04-182">Lt. David Corwin</name><set>Great_War</set></card>
+		<card><name id="04-182">Lt. David Corwin</name><set>Great_War</set></card>
+		<card><name id="03-203">Meditation</name><set>Deluxe</set></card>
+		<card><name id="03-203">Meditation</name><set>Deluxe</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="01-197">Jeffrey Sinclair [Pr]</name><set>Premier</set></card>
+		<card><name id="01-400">The Great Machine</name><set>Premier</set></card>
+		<card><name id="01-418">Upgraded Defenses</name><set>Premier</set></card>
+		<card><name id="01-009">Alliance of Races</name><set>Premier</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,228 @@
+<save>
+<turn>3</turn>
+<globalstats>
+<Shadow>24</Shadow>
+</globalstats>
+<player>
+<name>John1</name>
+<seat>0</seat>
+<playerstats>
+<Influence>10</Influence>
+</playerstats>
+<zone0>
+<visibleto>John1</visibleto>
+<card><id>2060</id><owner>John1</owner></card>
+<card><id>1794</id><owner>John1</owner></card>
+<card><id>1696</id><owner>John1</owner></card>
+<card><id>1597</id><owner>John1</owner></card>
+<card><id>1047</id><owner>John1</owner></card>
+<card><id>1904</id><owner>John1</owner></card>
+<card><id>1533</id><owner>John1</owner></card>
+</zone0>
+<zone1>
+<card><id>1873</id><owner>John1</owner></card>
+<card><id>1861</id><owner>John1</owner></card>
+<card><id>1998</id><owner>John1</owner></card>
+<card><id>1232</id><owner>John1</owner></card>
+<card><id>1873</id><owner>John1</owner></card>
+<card><id>1619</id><owner>John1</owner></card>
+<card><id>1892</id><owner>John1</owner></card>
+<card><id>2561</id><owner>John1</owner></card>
+<card><id>1047</id><owner>John1</owner></card>
+<card><id>1584</id><owner>John1</owner></card>
+<card><id>1241</id><owner>John1</owner></card>
+<card><id>1717</id><owner>John1</owner></card>
+<card><id>1555</id><owner>John1</owner></card>
+<card><id>1821</id><owner>John1</owner></card>
+<card><id>1285</id><owner>John1</owner></card>
+<card><id>1322</id><owner>John1</owner></card>
+<card><id>1527</id><owner>John1</owner></card>
+<card><id>1792</id><owner>John1</owner></card>
+<card><id>1808</id><owner>John1</owner></card>
+<card><id>1533</id><owner>John1</owner></card>
+<card><id>1572</id><owner>John1</owner></card>
+<card><id>645</id><owner>John1</owner></card>
+<card><id>1808</id><owner>John1</owner></card>
+<card><id>1308</id><owner>John1</owner></card>
+<card><id>1954</id><owner>John1</owner></card>
+<card><id>1634</id><owner>John1</owner></card>
+<card><id>1930</id><owner>John1</owner></card>
+<card><id>2561</id><owner>John1</owner></card>
+<card><id>1860</id><owner>John1</owner></card>
+<card><id>2131</id><owner>John1</owner></card>
+<card><id>1743</id><owner>John1</owner></card>
+<card><id>1345</id><owner>John1</owner></card>
+<card><id>1242</id><owner>John1</owner></card>
+<card><id>1904</id><owner>John1</owner></card>
+<card><id>2483</id><owner>John1</owner></card>
+<card><id>1381</id><owner>John1</owner></card>
+<card><id>1584</id><owner>John1</owner></card>
+<card><id>2060</id><owner>John1</owner></card>
+<card><id>1572</id><owner>John1</owner></card>
+<card><id>1427</id><owner>John1</owner></card>
+<card><id>1244</id><owner>John1</owner></card>
+<card><id>1875</id><owner>John1</owner></card>
+<card><id>1715</id><owner>John1</owner></card>
+</zone1>
+<zone2>
+<visibleto>John1</visibleto>
+<visibleto>Martin Tain</visibleto>
+<card><id>1860</id><owner>John1</owner></card>
+<card><id>1821</id><owner>John1</owner></card>
+<card><id>2483</id><owner>John1</owner></card>
+<card><id>522</id><owner>John1</owner></card>
+<card><id>1861</id><owner>John1</owner></card>
+<card><id>1555</id><owner>John1</owner></card>
+<card><id>1232</id><owner>John1</owner></card>
+<card><id>1998</id><owner>John1</owner></card>
+<card><id>1322</id><owner>John1</owner></card>
+<card><id>1972</id><owner>John1</owner></card>
+<card><id>1047</id><owner>John1</owner></card>
+<card><id>1555</id><owner>John1</owner></card>
+<card><id>2059</id><owner>John1</owner></card>
+<card><id>2000</id><owner>John1</owner></card>
+<card><id>1873</id><owner>John1</owner></card>
+<card><id>1902</id><owner>John1</owner></card>
+</zone2>
+<zone3>
+<visibleto>John1</visibleto>
+<visibleto>Martin Tain</visibleto>
+<card><id>1715</id><owner>John1</owner></card>
+<card><id>2176</id><owner>John1</owner></card>
+</zone3>
+<zone4>
+<visibleto>John1</visibleto>
+<visibleto>Martin Tain</visibleto>
+</zone4>
+<zone5>
+</zone5>
+<zone6>
+<visibleto>John1</visibleto>
+<visibleto>Martin Tain</visibleto>
+</zone6>
+</player>
+<player>
+<name>Martin Tain</name>
+<seat>1</seat>
+<playerstats>
+<Influence>18</Influence>
+<Bonus Power>1</Bonus Power>
+</playerstats>
+<zone0>
+<visibleto>Martin Tain</visibleto>
+<card><id>1047</id><owner>Martin Tain</owner></card>
+<card><id>1260</id><owner>Martin Tain</owner></card>
+<card><id>583</id><owner>Martin Tain</owner></card>
+<card><id>562</id><owner>Martin Tain</owner></card>
+<card><id>527</id><owner>Martin Tain</owner></card>
+<card><id>480</id><owner>Martin Tain</owner></card>
+<card><id>516</id><owner>Martin Tain</owner></card>
+<card><id>1832</id><owner>Martin Tain</owner></card>
+<card><id>474</id><owner>Martin Tain</owner></card>
+<card><id>579</id><owner>Martin Tain</owner></card>
+<card><id>1925</id><owner>Martin Tain</owner></card>
+<card><id>1218</id><owner>Martin Tain</owner></card>
+<card><id>1902</id><owner>Martin Tain</owner></card>
+<card><id>616</id><owner>Martin Tain</owner></card>
+<card><id>616</id><owner>Martin Tain</owner></card>
+</zone0>
+<zone1>
+<card><id>1153</id><owner>Martin Tain</owner></card>
+<card><id>614</id><owner>Martin Tain</owner></card>
+<card><id>616</id><owner>Martin Tain</owner></card>
+<card><id>468</id><owner>Martin Tain</owner></card>
+<card><id>697</id><owner>Martin Tain</owner></card>
+<card><id>714</id><owner>Martin Tain</owner></card>
+<card><id>484</id><owner>Martin Tain</owner></card>
+<card><id>1904</id><owner>Martin Tain</owner></card>
+<card><id>596</id><owner>Martin Tain</owner></card>
+<card><id>574</id><owner>Martin Tain</owner></card>
+<card><id>941</id><owner>Martin Tain</owner></card>
+<card><id>548</id><owner>Martin Tain</owner></card>
+<card><id>468</id><owner>Martin Tain</owner></card>
+<card><id>1451</id><owner>Martin Tain</owner></card>
+<card><id>574</id><owner>Martin Tain</owner></card>
+<card><id>555</id><owner>Martin Tain</owner></card>
+<card><id>614</id><owner>Martin Tain</owner></card>
+</zone1>
+<zone2>
+<visibleto>Martin Tain</visibleto>
+<visibleto>John1</visibleto>
+<card><id>584</id><owner>Martin Tain</owner></card>
+<card><id>597</id><owner>Martin Tain</owner></card>
+<card><id>1726</id><owner>Martin Tain</owner></card>
+<card><id>1047</id><owner>Martin Tain</owner></card>
+<card><id>484</id><owner>Martin Tain</owner></card>
+<card><id>614</id><owner>Martin Tain</owner></card>
+<card><id>548</id><owner>Martin Tain</owner></card>
+<card><id>1163</id><owner>Martin Tain</owner></card>
+<card><id>562</id><owner>Martin Tain</owner></card>
+<card><id>468</id><owner>Martin Tain</owner></card>
+<card><id>1885</id><owner>Martin Tain</owner></card>
+<card><id>564</id><owner>Martin Tain</owner></card>
+<card><id>550</id><owner>Martin Tain</owner></card>
+<card><id>548</id><owner>Martin Tain</owner></card>
+<card><id>1904</id><owner>Martin Tain</owner></card>
+<card><id>550</id><owner>Martin Tain</owner></card>
+<card><id>1904</id><owner>Martin Tain</owner></card>
+<card><id>562</id><owner>Martin Tain</owner></card>
+<card><id>1275</id><owner>Martin Tain</owner></card>
+</zone2>
+<zone3>
+<visibleto>Martin Tain</visibleto>
+<visibleto>John1</visibleto>
+<card><id>915</id><owner>Martin Tain</owner></card>
+</zone3>
+<zone4>
+<visibleto>Martin Tain</visibleto>
+</zone4>
+<zone5>
+</zone5>
+<zone6>
+<visibleto>Martin Tain</visibleto>
+<visibleto>John1</visibleto>
+</zone6>
+</player>
+<table>
+<card><id>2120</id><owner>Martin Tain</owner><x>0.93</x><y>0.27</y></card>
+<card><id>529</id><owner>Martin Tain</owner><x>0.54</x><y>0.27</y></card>
+<card><id>1885</id><owner>Martin Tain</owner><x>0.93</x><y>0.78</y></card>
+<card><id>697</id><owner>Martin Tain</owner><x>0.78</x><y>0.78</y></card>
+<card><id>1941</id><owner>John1</owner><x>-0.81</x><y>-0.18</y></card>
+<card><id>585</id><owner>Martin Tain</owner><x>0.93</x><y>-0.15</y></card>
+<card><id>2046</id><owner>John1</owner><note>2 extra  shadow marks</note><x>0.21</x><y>-0.18</y></card>
+<card><id>536</id><owner>Martin Tain</owner><x>-0.33</x><y>0.75</y></card>
+<card><id>520</id><owner>Martin Tain</owner><x>-0.18</x><y>0.75</y></card>
+<card><id>1258</id><owner>Martin Tain</owner><x>-0.03</x><y>0.75</y></card>
+<card><id>2561</id><owner>John1</owner><x>-0.78</x><y>-0.69</y></card>
+<card><id>521</id><owner>Martin Tain</owner><x>-0.66</x><y>0.75</y></card>
+<card><id>542</id><owner>Martin Tain</owner><x>-0.81</x><y>0.75</y></card>
+<card><id>921</id><owner>John1</owner><isturnedover>1</isturnedover><y>-0.18</y></card>
+<card><id>1760</id><owner>Martin Tain</owner><x>0.75</x><y>0.27</y></card>
+<card><id>1634</id><owner>John1</owner><x>0.33</x><y>-0.6</y></card>
+<card><id>1794</id><owner>John1</owner><x>-0.39</x><y>-0.18</y></card>
+<card><id>573</id><owner>Martin Tain</owner><x>-0.48</x><y>0.75</y><Red>5</Red><Orange>2</Orange></card>
+<card><id>1153</id><owner>Martin Tain</owner><isturnedover>1</isturnedover><x>0.33</x><y>0.24</y></card>
+<card><id>1830</id><owner>John1</owner><x>-0.36</x><y>-0.63</y></card>
+<card><id>1928</id><owner>Martin Tain</owner><x>0.09</x><y>0.78</y></card>
+<card><id>1203</id><owner>Martin Tain</owner><x>0.06</x><y>0.81</y></card>
+<card><id>1113</id><owner>Martin Tain</owner><x>-0.06</x><y>0.78</y></card>
+<card><id>2202</id><owner>John1</owner><x>-0.24</x><y>-0.21</y></card>
+<card><id>1153</id><owner>Martin Tain</owner><isturnedover>1</isturnedover><x>0.3</x><y>0.24</y></card>
+<card><id>533</id><owner>Martin Tain</owner><x>0.12</x><y>0.27</y></card>
+<card><id>1908</id><owner>Martin Tain</owner><x>0.39</x><y>0.78</y></card>
+<card><id>1431</id><owner>Martin Tain</owner><x>0.21</x><y>0.75</y></card>
+<card><id>555</id><owner>Martin Tain</owner><x>0.36</x><y>0.78</y></card>
+<card><id>550</id><owner>Martin Tain</owner><isturnedover>1</isturnedover><x>0.54</x><y>0.75</y></card>
+<card><id>574</id><owner>Martin Tain</owner><note>Bioweapon Token 5</note><x>0.57</x><y>0.75</y><Orange>17</Orange></card>
+<card><id>1242</id><owner>John1</owner><x>0.6</x><y>-0.6</y></card>
+<card><id>1998</id><owner>John1</owner><x>0.75</x><y>-0.63</y></card>
+<card><id>1238</id><owner>John1</owner><x>0.78</x><y>-0.6</y><Red>7</Red></card>
+<card><id>697</id><owner>Martin Tain</owner><isturnedover>1</isturnedover><x>0.3</x><y>0.33</y></card>
+<card><id>564</id><owner>Martin Tain</owner><x>0.33</x><y>0.27</y></card>
+<card><id>605</id><owner>Martin Tain</owner><x>-0.93</x><y>0.75</y></card>
+<card><id>738</id><owner>Martin Tain</owner><x>-0.06</x><y>0.27</y></card>
+<card><id>495</id><owner>Martin Tain</owner><x>0.33</x><y>0.81</y></card>
+<card><id>2379</id><owner>John1</owner><isimmunetoturnall>1</isimmunetoturnall><note>4 shadow marks</note><x>-0.21</x><y>-0.27</y></card>
+</table>
+</save>

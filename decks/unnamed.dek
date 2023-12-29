@@ -1,0 +1,8 @@
+<deck version="0.8">
+	<meta>
+		<game>Babylon 5</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="04-352">Ulkesh Kosh</name><set>Great_War</set></card>
+	</superzone>
+</deck>
