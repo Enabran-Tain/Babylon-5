@@ -23,4 +23,4 @@ plugins/Babylon-5/packs/04-GW_sd-HF.jpg	http://www.werepenguin.com/B5/lackey/pac
 plugins/Babylon-5/packs/05-Ps_sd-Ps.jpg	http://www.werepenguin.com/B5/lackey/packs/05-Ps_sd-Ps.jpg	-5785
 plugins/Babylon-5/sets/All_Sets.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/All_Sets.txt	61982728
 CardGeneralURLs:
-https://raw.githubusercontent.com/Enabran-Tain/Babylon-5
+https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/sets/setimages
