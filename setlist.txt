@@ -1,6 +1,5 @@
 2
 All_Sets.txt
-CrusadeRedux.txt
 
 16
 Legal_Sets_Only
@@ -16,20 +15,6 @@ Crusade
 
 Fan_sets
 3
-AnlaShok
-The_Vorlons
-CrusadeRedux
-
-Redux
-10
-Premier
-Shadows
-Deluxe
-Great_War
-Psi_Corps
-Severed_Dreams
-Wheel_of_Fire
-CrusadeRedux
 AnlaShok
 The_Vorlons
 
