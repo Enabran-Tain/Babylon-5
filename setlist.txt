@@ -1,5 +1,6 @@
 2
 All_Sets.txt
+CrusadeRedux.txt
 
 16
 Legal_Sets_Only
@@ -17,6 +18,12 @@ Fan_sets
 3
 AnlaShok
 The_Vorlons
+CrusadeRedux
+
+Redux
+1
+CrusadeRedux
+
 
 01_Premier
 1
