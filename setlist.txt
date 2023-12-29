@@ -1,6 +1,5 @@
-2
+1
 All_Sets.txt
-CrusadeRedux.txt
 
 16
 Legal_Sets_Only
