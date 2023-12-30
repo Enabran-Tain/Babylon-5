@@ -1,8 +1,8 @@
 b5	10-30-09
 plugins/Babylon-5/plugininfo.txt  https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/plugininfo.txt 160585
-plugins/Babylon-5/setlist.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/setlist.txt	55445
+plugins/Babylon-5/setlist.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/setlist.txt	42226
 plugins/Babylon-5/packs/packdefinitions.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/packs/packdefinitions.txt	548172
-plugins/Babylon-5/bot.jpg	http://babylon5ccg.bravehost.com/download/b5/plugin/bot.jpg	-919
+plugins/Babylon-5/bot.jpg	http://babylon5ccg.bravehost.com/download/b5/plugin/bot.jpg	0
 plugins/Babylon-5/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/sets/setimages/general/spawned.jpg	-69041
 plugins/Babylon-5/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/sets/setimages/general/cardback.jpg	-41401
 plugins/Babylon-5/sets/setimages/general/tension_tracker.jpg	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/sets/setimages/general/tension_tracker.jpg	-44474
@@ -21,6 +21,6 @@ plugins/Babylon-5/packs/01-Pr_sd-Cn.jpg	https://raw.githubusercontent.com/Enabra
 plugins/Babylon-5/packs/04-GW_sd-NA.jpg	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/packs/04-GW_sd-NA.jpg	-23805
 plugins/Babylon-5/packs/04-GW_sd-HF.jpg	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/packs/04-GW_sd-HF.jpg	-23805
 plugins/Babylon-5/packs/05-Ps_sd-Ps.jpg	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/packs/05-Ps_sd-Ps.jpg	-5785
-plugins/Babylon-5/sets/All_Sets.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/sets/All_Sets.txt	61982728
+plugins/Babylon-5/sets/All_Sets.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/sets/All_Sets.txt	62186586
 CardGeneralURLs:
 https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/sets/setimages/
