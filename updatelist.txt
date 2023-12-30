@@ -1,4 +1,4 @@
-b5	10-30-09
+Babylon-5	10-30-09
 plugins/Babylon-5/plugininfo.txt  https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/plugininfo.txt 160585
 plugins/Babylon-5/setlist.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/setlist.txt	42226
 plugins/Babylon-5/packs/packdefinitions.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/packs/packdefinitions.txt	548172
