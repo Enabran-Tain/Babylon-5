@@ -1,0 +1,8 @@
+<version>
+
+<lastupdateYYMMDD>230101</lastupdateYYMMDD>
+ <versionurl>https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/version.txt</versionurl>
+ <updateurl>https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/updatelist.txt</updateurl>
+ <message>A new update is available</message>
+
+</version>
