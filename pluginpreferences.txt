@@ -1,12 +1,12 @@
 <pluginpreferences>
 
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
-<counterstyleimagesizeimagesonly>18</counterstyleimagesizeimagesonly>
+<counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
 <canned>Pass.</canned>
-<canned>Geht schon</canned>
+<canned>Proceed.</canned>
 <canned>Draw to end my turn.</canned>
-<canned>Du bist dran</canned>
+<canned>Your turn.</canned>
 <canned>Downloading...</canned>
 <canned>Reporting...</canned>
 <canned>Beaming...</canned>
@@ -20,7 +20,7 @@
 <canned>!Save Log!/log</canned>
 <canned>!Clear Log!/clear</canned>
 <canned>!Draft to Next!/exchangeclockwise</canned>
-<canned>!Edit Deck!/copyzonetocardpool</canned>
+<canned>/draw6</canned>
 <canned>/draw8</canned>
 <canned>Good game.</canned>
 <fontkind0pos0>Lato-Reg.ttf</fontkind0pos0>
@@ -64,7 +64,7 @@
 <recentformat>-1</recentformat>
 <filterkeystroke>1</filterkeystroke>
 <deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
-<scalefactor>1.610000</scalefactor>
+<scalefactor>1.000000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
 <panx>0.015000</panx>

@@ -1,7 +1,7 @@
-Babylon-5	12-02-24
+Babylon-5	03-02-24
 plugins/Babylon-5/plugininfo.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/plugininfo.txt	160585
 plugins/Babylon-5/setlist.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/setlist.txt	42226
-plugins/Babylon5/version.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/version.txt	30675
+plugins/Babylon-5/version.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/version.txt	30675
 plugins/Babylon-5/packs/packdefinitions.txt	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/packs/packdefinitions.txt	548172
 plugins/Babylon-5/bot.jpg	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/bot.jpg	0
 plugins/Babylon-5/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/Enabran-Tain/Babylon-5/main/sets/setimages/general/spawned.jpg	-69041
